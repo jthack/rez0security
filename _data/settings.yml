@@ -152,7 +152,6 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "G-LHQP6PN0VG"
   custom_styles: ""
   header_js: ""
   footer_js: ""
