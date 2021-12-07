@@ -8,20 +8,20 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
+    - title: 'Contact us'
       url: '/contact'
+      #    - title: 'Blog'
+      #      url: '/blog/'
+      #    - title: 'About'
+      #      url: '/about'
 
 footer_settings:
   footer_tagline: We legally hack websites to help secure them.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.7
 
 post_settings:
   grid_spacing: 10
@@ -68,7 +68,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#3498db'
   border_color: '#dddddd'
-  hero_background_color: '#132930'
+  hero_background_color: '#135a78'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
 
