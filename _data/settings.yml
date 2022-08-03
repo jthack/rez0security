@@ -10,12 +10,10 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
+    - title: 'About'
+      url: '/about'
     - title: 'Contact us'
       url: '/contact'
-      #    - title: 'Blog'
-      #      url: '/blog/'
-      #    - title: 'About'
-      #      url: '/about'
 
 footer_settings:
   footer_tagline: We legally hack websites to help secure them.
@@ -66,9 +64,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#3498db'
+  accent_color: '#3c78d8'
   border_color: '#dddddd'
-  hero_background_color: '#135a78'
+  hero_background_color: '#3660a3'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
 
